@@ -8,6 +8,8 @@ Working on developing a multi-purpose AIS data warehouse used for ship trajector
 # VS Code [Cheatsheet](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 ![image](https://user-images.githubusercontent.com/33719197/160450421-4ea01327-1cff-4bfe-8d3f-774052c5b35d.png)
 
+<!-- # Contributions 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gitkshn&theme=gruvbox&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 
 <!---
 gitkshn/gitkshn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
